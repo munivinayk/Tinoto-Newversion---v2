@@ -1,0 +1,33 @@
+{
+  "trips": [
+    {
+      "title": "Trip to France",
+      "image": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1473&q=80",
+      "date": "Aug 4 - 11",
+      "places": 40,
+      "coordinates": [46.227638, 2.213749]
+    },
+    {
+      "title": "Trip to Perth and Brisbane",
+      "image": "https://images.unsplash.com/photo-1524293581917-878a6d017c71?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "date": "Mar 9 - 22, 2025",
+      "places": 0,
+      "upcoming": "5 months",
+      "coordinates": [-31.953512, 115.857048]
+    },
+    {
+      "title": "Trip to Zurich, Zermatt, and more",
+      "image": "https://images.unsplash.com/photo-1515488764276-beab7607c1e6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "date": "Mar 8 - 17",
+      "places": 18,
+      "coordinates": [46.818188, 8.227512]
+    },
+    {
+      "title": "Trip to Hong Kong",
+      "image": "https://images.unsplash.com/photo-1506970845246-18f21d533b20?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "date": "Aug 8 - 13, 2023",
+      "places": 38,
+      "coordinates": [22.396428, 114.109497]
+    }
+  ]
+}
